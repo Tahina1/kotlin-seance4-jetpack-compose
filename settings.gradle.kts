@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "CycleDeVie"
+rootProject.name = "CarteProduit"
 include(":app")

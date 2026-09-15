@@ -3,7 +3,7 @@
 
     <application
         android:label="@string/app_name"
-        android:theme="@style/Theme.CycleDeVie">
+        android:theme="@android:style/Theme.Material.Light.NoActionBar">
 
         <activity
             android:name=".MainActivity"
@@ -13,10 +13,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
-        <activity
-            android:name=".SecondActivity"
-            android:exported="false" />
 
     </application>
 
